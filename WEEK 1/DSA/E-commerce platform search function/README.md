@@ -57,4 +57,3 @@ Edit
 ```bash
 javac *.java
 java Main
-💡 If you face encoding issues (e.g. emoji errors), use plain text or compile using UTF-8:
