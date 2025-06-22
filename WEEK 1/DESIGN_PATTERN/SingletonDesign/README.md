@@ -37,6 +37,5 @@ Edit
 
 Here’s a sample console output of the Logger Singleton:
 
-![Code Screen 1](image.png)  
-![Code Screen 2](image-copy.png)
-
+![Code](image.png)  
+![Output Screen](image2.png)
