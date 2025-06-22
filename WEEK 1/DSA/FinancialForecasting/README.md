@@ -33,8 +33,8 @@ Where:
 
 ## 📷 Screenshot
 
-![code](image.png)
-![output](image2.png)
+![code](image2.png)
+![output](image.png)
 
 ---
 
