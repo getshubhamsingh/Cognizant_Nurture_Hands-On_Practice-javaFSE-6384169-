@@ -33,10 +33,10 @@ Edit
 3. If not, it enters a `synchronized` block and creates a new instance (only once).
 4. All future calls to `getInstance()` return the same object.
 
-
 ## 📸 Snapshot
 
 Here’s a sample console output of the Logger Singleton:
 
-![Code Screen](D:\Placement\Cognizant_Nurture_Hands-On_Practice-javaFSE-6384169-\WEEK 1\DESIGN_PATTERN\SingletonDesign\image.png)
-![Code Screen](D:\Placement\Cognizant_Nurture_Hands-On_Practice-javaFSE-6384169-\WEEK 1\DESIGN_PATTERN\SingletonDesign\image copy.png)
+![Code Screen 1](image.png)  
+![Code Screen 2](image-copy.png)
+
