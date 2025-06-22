@@ -33,28 +33,10 @@ Edit
 3. If not, it enters a `synchronized` block and creates a new instance (only once).
 4. All future calls to `getInstance()` return the same object.
 
-## 📌 Usage
-
-```java
-Logger logger = Logger.getInstance();
-logger.log("This is a log message.");
-✅ Output Example
-csharp
-Copy
-Edit
-[LOG] Singleton Logger initialized.
-[LOG] Same logger instance used.
-true
-🧠 Concepts Demonstrated
-Singleton Pattern
-
-Lazy Initialization
-
-Thread Safety (via synchronized block)
 
 ## 📸 Snapshot
 
 Here’s a sample console output of the Logger Singleton:
 
-![Code Screen](image.png)
-![Code Screen](image copy.png)
+![Code Screen](D:\Placement\Cognizant_Nurture_Hands-On_Practice-javaFSE-6384169-\WEEK 1\DESIGN_PATTERN\SingletonDesign\image.png)
+![Code Screen](D:\Placement\Cognizant_Nurture_Hands-On_Practice-javaFSE-6384169-\WEEK 1\DESIGN_PATTERN\SingletonDesign\image copy.png)
