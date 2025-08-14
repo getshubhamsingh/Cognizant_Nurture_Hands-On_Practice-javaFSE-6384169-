@@ -18,3 +18,4 @@ project-root/
 │ │ └── output images
 │ └── mockito/
 │ ├── java files
+│ └── output images
