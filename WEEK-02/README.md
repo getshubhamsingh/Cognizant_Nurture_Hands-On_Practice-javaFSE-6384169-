@@ -4,18 +4,17 @@ This document outlines the folder structure and organization of files in this pr
 ---
 
 ## 📁 Folder Hierarchy
-project-root/
-├── plsql/
-│ ├── control-structure/
-│ │ ├── sql files
-│ │ └── output image
-│ ├── stored-procedure/
-│ │ ├── sql files
-│ │ └── output image
-├── testing/
-│ ├── junits/
-│ │ ├── java files
-│ │ └── output images
-│ └── mockito/
-│ ├── java files
-│ └── output images
+---
+project-root/                                                                                      
+├── plsql/                                                                                         
+│ ├── control-structure/                                                                           
+│ │ ├── sql files                                                                                  
+│ ├── stored-procedure/                                                                            
+│ │ ├── sql files                                                                                  
+│ │ └── output                                                                                     
+├── testing/                                                                                       
+│ ├── junits/                                                                                      
+│ │ ├── java files                                                                                 
+│ │ └── output                                                                                     
+│ ├── mockito/                                                                                     
+│ │ ├── java files                                                                                 
