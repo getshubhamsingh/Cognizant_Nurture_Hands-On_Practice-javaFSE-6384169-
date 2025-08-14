@@ -1,4 +1,4 @@
-/*scenario 1
+/*scenario 1*/
 BEGIN
     FOR cust IN (
         SELECT CustomerID
@@ -11,9 +11,9 @@ BEGIN
     END LOOP;
     COMMIT;
 END;
-/
 
-/*scenario 2
+
+/*scenario 2*/
 BEGIN
     FOR cust IN (
         SELECT CustomerID FROM Customers WHERE Balance > 10000
@@ -45,3 +45,4 @@ SET SERVEROUTPUT ON;
 BEGIN
  SendLoanReminders;
 END;
+
